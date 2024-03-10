@@ -1,10 +1,10 @@
-DUNGEON CRAWLER  
+# DUNGEON CRAWLER  
 (In development, only scripts uploaded)
 
 ![screenshot](Dungeon-Crawler.png)
 
 
-# Project Name
+## Project Description
 Fight incoming waves of goblins.
 
 ### Built With
